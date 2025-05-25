@@ -1,4 +1,13 @@
-{
-"token":
-"7744266635:AAGlrUQ5iUhLcS8htk2zlXNC6OlsRzy6nW8"
-}
+     {
+       "tokens": [
+         {
+           "bot_name": "MyBot1",
+           "token": "123456789:ABCdefGhIJKlmNOpQRstUVwxYZ"
+         },
+         {
+           "bot_name": "MyBot2",
+           "token": "987654321:ZYXwvUTSrqPOnMlKjihGFedCBA"
+         }
+       ]
+     }
+     
